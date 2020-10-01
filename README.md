@@ -3,9 +3,6 @@
 
 
 
-<img src="https://raw.githubusercontent.com/madHEYsia/ClassroomFriends/master/screenshot.JPG" >
-<img src="https://raw.githubusercontent.com/madHEYsia/ClassroomFriends/master/screenshot1.JPG" >
-
 This is an example of RESTful CRUD in Node.js n mySQL
 
 ## Installation
