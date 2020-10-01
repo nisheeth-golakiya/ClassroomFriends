@@ -3,10 +3,10 @@
 
 
 
-This is an example of RESTful CRUD in Node.js n mySQL
+This is an example of RESTful CRUD in Node.js and mySQL
 
 ## Installation
-*Clone or download zip to your machine then hit this :
+Clone or download zip to your machine then hit this :
 
     cd classroomshoppers
 
